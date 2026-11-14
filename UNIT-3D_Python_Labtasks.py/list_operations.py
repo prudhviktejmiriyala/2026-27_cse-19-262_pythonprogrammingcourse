@@ -1,0 +1,12 @@
+numbers = [10, 30, 20, 50, 40]
+print("Original List:", numbers)
+numbers.insert(1, 15)
+print("After Insert:", numbers)
+numbers.append(60)
+print("After Append:", numbers)
+numbers.remove(30)
+print("After Remove:", numbers)
+numbers.sort()
+print("After Sort:", numbers)
+numbers.reverse()
+print("After Reverse:", numbers)

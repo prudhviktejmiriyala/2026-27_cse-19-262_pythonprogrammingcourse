@@ -1,0 +1,6 @@
+numbers = (12, 45, 8, 67, 23)
+maximum = max(numbers)
+minimum = min(numbers)
+print("Tuple:", numbers)
+print("Maximum element:", maximum)
+print("Minimum element:", minimum)
